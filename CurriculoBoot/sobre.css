@@ -1,0 +1,28 @@
+.mt-0 {
+    margin-top: 5 !important;
+  }
+  
+  .ms-1 {
+    margin-left: (spacer * .25) !important;
+  }
+  
+  .px-2 {
+    padding-left: (spacer * .5) !important;
+    padding-right: (spacer * .5) !important;
+  }
+  
+  .p-3 {
+    padding: spacer !important;
+  }
+.sobre {
+    text-align: justify;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    margin-left: 50px;
+}
